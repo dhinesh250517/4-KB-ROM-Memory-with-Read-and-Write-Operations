@@ -57,7 +57,7 @@ module rom_memory (
 endmodule
 ```
 
-![exp5d](https://github.com/user-attachments/assets/36666280-a4cd-41a8-812f-58bc1bad1934)
+![image](https://github.com/user-attachments/assets/235beb44-d4a6-48a8-80f5-c7890c0a5353)
 
 
 
@@ -124,7 +124,7 @@ endmodule
 ```
 
 
-![exp5d2](https://github.com/user-attachments/assets/b953699a-0bda-4125-bd9d-8dbbed8b4cfa)
+![image](https://github.com/user-attachments/assets/b2e0663f-2e47-4f25-a394-e1e38017646b)
 
 
 
